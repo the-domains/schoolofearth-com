@@ -1,0 +1,28 @@
+name: schoolofearth.com
+favicon: null
+layout_spectrum: 0.7383848992176354
+typography_spectrum: 0.9934043297544122
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.07791203982196748
+  lightness: 0.015433041378855705
+  saturation: 0.163690238725394
+  rhythmicContrast: 0.17322506313212216
+purpose: []
